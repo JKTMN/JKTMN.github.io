@@ -1,0 +1,11 @@
+.left {
+    position: relative;
+  left: 30px;
+  border: 3px solid #73AD21;
+}
+
+.right {
+    position: relative;
+  right: 30px;
+  border: 3px solid #73AD21;
+}
